@@ -3,7 +3,7 @@ using namespace cv;
 
 int main() {
     // Load the image from file
-    Mat image = imread("xxxai-center.png", IMREAD_COLOR);
+    Mat image = imread("D:\\AI-Center\\Computing\\C-Tutorial\\openCVLab01\\ai-center.png", IMREAD_COLOR);
 
     // Check if the image was loaded successfully
     if (image.empty()) {
