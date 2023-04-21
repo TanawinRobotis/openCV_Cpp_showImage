@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\AI-Center\Computing\C-Tutorial\openCVLab01\build\CMakeFiles\e27541dedae575db46c875cae8840311\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{366655E0-59DC-3B18-883F-C46C003435BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

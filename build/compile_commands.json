@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/AI-Center/Computing/C-Tutorial/openCVLab01/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/cv01.dir/includes_CXX.rsp -g -o CMakeFiles\\cv01.dir\\main.cpp.obj -c D:\\AI-Center\\Computing\\C-Tutorial\\openCVLab01\\main.cpp",
+  "file": "D:/AI-Center/Computing/C-Tutorial/openCVLab01/main.cpp",
+  "output": "CMakeFiles/cv01.dir/main.cpp.obj"
+}
+]
